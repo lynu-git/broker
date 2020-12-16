@@ -1,5 +1,4 @@
 # Broker 
-//test container
 The infrastrucure middleman
 
 # Description
